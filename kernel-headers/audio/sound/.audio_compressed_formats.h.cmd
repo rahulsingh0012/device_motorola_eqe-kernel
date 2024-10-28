@@ -1,0 +1,1 @@
+cmd_usr/include/audio/sound/audio_compressed_formats.h := sh ../scripts/headers_install.sh ../techpack/audio/include/uapi/audio/sound/audio_compressed_formats.h usr/include/audio/sound/audio_compressed_formats.h
